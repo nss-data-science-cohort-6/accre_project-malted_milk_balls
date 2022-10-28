@@ -1,5 +1,5 @@
-#Ignore data folder 
-data/
+#Ignore data  
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
